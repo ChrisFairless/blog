@@ -19,11 +19,8 @@ interests:
 name: Chris Fairless
 organizations:
 - name: Greater London Authority
-  url: ''
-output:
-  html_document:
-    df_print: paged
-role: Senior Analyst - Demography
+  url: 'https://www.london.gov.uk'
+  role: Senior Analyst - Predictive Modelling
 social:
 - icon: envelope
   icon_pack: fas
