@@ -1,38 +1,46 @@
 ---
-authors:
-- admin
-bio: Population modeller, meteorologist, polar enthusiast, irresponsible cook. He/him
+authors: admin
+bio: Data scientist, demographic modeller, meteorologist, climate scientist, irresponsible
+  cook. He/him
 education:
   courses:
   - course: PhD in Atmospheric Science
     institution: University of Manchester
-  - course: Master in Geography
+  - course: Masters in Environmental Science
     institution: University of Cambridge
   - course: BA in Mathematics
     institution: University of Cambridge
-email: ""
+email: chrisfairless@hotmail.com
 interests:
+- Data science
 - Demography
-- Climate & Meteorology
+- Climate Science & Meteorology
+- Catastrophe modelling
 name: Chris Fairless
 organizations:
 - name: Greater London Authority
-  url: ""
+  url: ''
+output:
+  html_document:
+    df_print: paged
 role: Senior Analyst - Demography
 social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/chrisfairless/
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/chris_fairless
 - icon: github
   icon_pack: fab
   link: https://github.com/ChrisFairless
-superuser: true
+superuser: yes
 user_groups:
 - Researchers
 - Visitors
 ---
 
-Expect occasional investigations into people and clouds.
+I'm a data scientist who specialises in atmospheric science and demographic modelling. I'm currently looking for new opportunities while I finish my work on the next generation of the Greater London Authority's population model.
