@@ -26,12 +26,12 @@ date_format = "Jan 2006"
   date_end = ""
   description = """
   London needs to know its future population to plan for school places, housing and infrastructure. I've been building the next generation of population models to do this.
-  *  Creating a modular demographic model that enables customisation and experimentation.
-  *  Introducing stochastic uncertainty to the model based on timeseries analysis of migration data.
-  *  Exploring how machine learning and new data sources can improve the modelling of birth and death rates
-  *  Implementing version control, Agile methodolgies, coding best practices and code review for the team. Making sure our published results are fully reproducible from the raw data.
-  *  Liaising with stakeholders and academics to better guide model design
-  *  Work in R, bash, SQLite, SPARQL
+   *  Creating a modular demographic model that enables customisation and experimentation.
+   *  Introducing stochastic uncertainty to the model based on timeseries analysis of migration data.
+   *  Exploring how machine learning and new data sources can improve the modelling of birth and death rates
+   *  Implementing version control, Agile methodolgies, coding best practices and code review for the team. Making sure our published results are fully reproducible from the raw data.
+   *  Liaising with stakeholders and academics to better guide model design
+   *  Work in R, bash, SQLite, SPARQL
   """
 
 [[experience]]
@@ -43,11 +43,11 @@ date_format = "Jan 2006"
   date_end = "2019-03-01"
   description = """
   I worked on the Event Response team, writing and maintaining code that to forecast and reconstruct natural disasters in near-real time. I specialised in European extratropical cyclones and western Pacific tropical storms, but also worked to model floods, wildfires, earthquakes, severe convective storms and hurricanes.
-  *  Forecasting and reconstructing natural disasters using observational data, weather agency forecasts and the RMS models.
-  *  Improving, extending and automating code. Adapting existing processes to work with new models and regions.
-  *  Designing and building new products.
-  *  Writing daily briefings and reports for clients.
-  *  Work in R, bash, PostgreSQL, with some perl, python and Fortran. 
+   *  Forecasting and reconstructing natural disasters using observational data, weather agency forecasts and the RMS models.
+   *  Improving, extending and automating code. Adapting existing processes to work with new models and regions.
+   *  Designing and building new products.
+   *  Writing daily briefings and reports for clients.
+   *  Work in R, bash, PostgreSQL, with some perl, python and Fortran. 
   """
   
   
