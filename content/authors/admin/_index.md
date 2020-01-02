@@ -40,4 +40,4 @@ user_groups:
 - Visitors
 ---
 
-I'm a data scientist who specialises in atmospheric science and demographic modelling. I'm currently looking for new opportunities while I finish my work on the next generation of the Greater London Authority's population model.
+I'm a data scientist specialising in weather, climate and demographic modelling. I'm currently looking for new opportunities while I finish a project building the next generation of the Greater London Authority's population model.
